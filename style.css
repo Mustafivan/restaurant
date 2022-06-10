@@ -132,7 +132,7 @@ header .navbar a:hover{
     gap: 1.5rem;
     min-height: 100vh;
     align-items: center;
-    background: url(../pic/14.jpg) no-repeat;
+    // background: url(../pic/14.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
